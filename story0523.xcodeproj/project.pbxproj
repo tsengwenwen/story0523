@@ -11,6 +11,13 @@
 		E253399E2C0752150070B125 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E253399D2C0752150070B125 /* ContentView.swift */; };
 		E25339A02C0752160070B125 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E253399F2C0752160070B125 /* Assets.xcassets */; };
 		E25339A32C0752160070B125 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E25339A22C0752160070B125 /* Preview Assets.xcassets */; };
+		E25339AA2C07640B0070B125 /* p1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25339A92C07640B0070B125 /* p1.swift */; };
+		E25339AC2C07660F0070B125 /* market.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25339AB2C07660F0070B125 /* market.swift */; };
+		E25339AE2C0772560070B125 /* friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25339AD2C0772560070B125 /* friend.swift */; };
+		E25339B02C0784350070B125 /* castle.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25339AF2C0784350070B125 /* castle.swift */; };
+		E25339B22C07868E0070B125 /* happy.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25339B12C07868E0070B125 /* happy.swift */; };
+		E25339B62C0788CC0070B125 /* protect.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25339B52C0788CC0070B125 /* protect.swift */; };
+		E25339B82C07898C0070B125 /* adventurer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25339B72C07898C0070B125 /* adventurer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +26,13 @@
 		E253399D2C0752150070B125 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E253399F2C0752160070B125 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E25339A22C0752160070B125 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E25339A92C07640B0070B125 /* p1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1.swift; sourceTree = "<group>"; };
+		E25339AB2C07660F0070B125 /* market.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = market.swift; sourceTree = "<group>"; };
+		E25339AD2C0772560070B125 /* friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = friend.swift; sourceTree = "<group>"; };
+		E25339AF2C0784350070B125 /* castle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = castle.swift; sourceTree = "<group>"; };
+		E25339B12C07868E0070B125 /* happy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = happy.swift; sourceTree = "<group>"; };
+		E25339B52C0788CC0070B125 /* protect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = protect.swift; sourceTree = "<group>"; };
+		E25339B72C07898C0070B125 /* adventurer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adventurer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +67,13 @@
 			children = (
 				E253399B2C0752150070B125 /* story0523App.swift */,
 				E253399D2C0752150070B125 /* ContentView.swift */,
+				E25339A92C07640B0070B125 /* p1.swift */,
+				E25339AB2C07660F0070B125 /* market.swift */,
+				E25339AD2C0772560070B125 /* friend.swift */,
+				E25339B12C07868E0070B125 /* happy.swift */,
+				E25339AF2C0784350070B125 /* castle.swift */,
+				E25339B52C0788CC0070B125 /* protect.swift */,
+				E25339B72C07898C0070B125 /* adventurer.swift */,
 				E253399F2C0752160070B125 /* Assets.xcassets */,
 				E25339A12C0752160070B125 /* Preview Content */,
 			);
@@ -138,7 +159,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				E253399E2C0752150070B125 /* ContentView.swift in Sources */,
+				E25339B62C0788CC0070B125 /* protect.swift in Sources */,
+				E25339B02C0784350070B125 /* castle.swift in Sources */,
+				E25339B22C07868E0070B125 /* happy.swift in Sources */,
+				E25339AA2C07640B0070B125 /* p1.swift in Sources */,
 				E253399C2C0752150070B125 /* story0523App.swift in Sources */,
+				E25339AE2C0772560070B125 /* friend.swift in Sources */,
+				E25339B82C07898C0070B125 /* adventurer.swift in Sources */,
+				E25339AC2C07660F0070B125 /* market.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
