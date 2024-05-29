@@ -10,7 +10,7 @@ import SwiftUI
 struct adventurer: View {
     var body: some View {
         ZStack {
-            Color.gray.opacity(0.3)
+            Color.teal.opacity(0.3)
                 .ignoresSafeArea()
             
             VStack {

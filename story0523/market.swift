@@ -10,7 +10,7 @@ import SwiftUI
 struct market: View {
     var body: some View {
         ZStack {
-            Color.gray.opacity(0.3)
+            Color.green.opacity(0.3)
                 .ignoresSafeArea()
             
             VStack {

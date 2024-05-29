@@ -10,7 +10,7 @@ import SwiftUI
 struct friend: View {
     var body: some View {
         ZStack {
-            Color.gray.opacity(0.3)
+            Color.cyan.opacity(0.3)
                 .ignoresSafeArea()
             
             VStack {

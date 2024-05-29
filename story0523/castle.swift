@@ -10,7 +10,7 @@ import SwiftUI
 struct castle: View {
     var body: some View {
         ZStack {
-            Color.gray.opacity(0.3)
+            Color.blue.opacity(0.3)
                 .ignoresSafeArea()
             
             VStack {
